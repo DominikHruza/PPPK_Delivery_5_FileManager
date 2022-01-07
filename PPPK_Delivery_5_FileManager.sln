@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPPK_Delivery_5_FileManager", "PPPK_Delivery_5_FileManager.csproj", "{1A44DE82-66FA-4BFC-8515-1A1BE1969923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A44DE82-66FA-4BFC-8515-1A1BE1969923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A44DE82-66FA-4BFC-8515-1A1BE1969923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A44DE82-66FA-4BFC-8515-1A1BE1969923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A44DE82-66FA-4BFC-8515-1A1BE1969923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA305EC-AFA3-4C57-BFC7-DD5E31E73941}
+	EndGlobalSection
+EndGlobal
